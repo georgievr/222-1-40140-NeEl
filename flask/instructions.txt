@@ -1,0 +1,10 @@
+print('Flask instructions')
+
+for activate the venv I need:
+    > cd venv\Scripts\activate.bat
+
+for run app.py I need:
+    > python app.py
+
+for test if flask server is running:
+    > http://127.0.0.1:5000/
